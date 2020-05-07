@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.476d9223.chunk.css",
+    "main.js": "./static/js/main.434fcffe.chunk.js",
+    "main.js.map": "./static/js/main.434fcffe.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e31e8089.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e31e8089.js.map",
+    "static/js/2.c8996688.chunk.js": "./static/js/2.c8996688.chunk.js",
+    "static/js/2.c8996688.chunk.js.map": "./static/js/2.c8996688.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.2bb531793a9115bdb78b952a8d0a4792.js": "./precache-manifest.2bb531793a9115bdb78b952a8d0a4792.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.476d9223.chunk.css.map": "./static/css/main.476d9223.chunk.css.map",
+    "static/js/2.c8996688.chunk.js.LICENSE.txt": "./static/js/2.c8996688.chunk.js.LICENSE.txt",
+    "static/media/bikeTemplate.png": "./static/media/bikeTemplate.cc1b971a.png",
+    "static/media/card_form.png": "./static/media/card_form.98046eef.png",
+    "static/media/developer.80eb41e8.svg": "./static/media/developer.80eb41e8.svg",
+    "static/media/mail.jpg": "./static/media/mail.0629cb31.jpg",
+    "static/media/portfolio.png": "./static/media/portfolio.f480297a.png",
+    "static/media/project17.png": "./static/media/project17.d0bd3216.png",
+    "static/media/project3.png": "./static/media/project3.131e1297.png",
+    "static/media/project37.png": "./static/media/project37.7071d78a.png",
+    "static/media/sudoku.png": "./static/media/sudoku.cb062584.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e31e8089.js",
+    "static/js/2.c8996688.chunk.js",
+    "static/css/main.476d9223.chunk.css",
+    "static/js/main.434fcffe.chunk.js"
+  ]
+}
